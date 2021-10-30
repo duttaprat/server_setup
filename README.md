@@ -15,3 +15,13 @@ How to setup server using terminal
       In this case the port number is 8999. You can use 8999 or your own port number(like 8080). 
 
    *  
+
+
+
+## How to setup `git` in your remote server when you don't have `sudo` access.
+   * Install `git` using conda
+   ```
+      conda install -c anaconda git
+   ```
+   * 
+   
