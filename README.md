@@ -8,7 +8,10 @@ How to setup server using terminal
       ```
       ssh -L <port number>:localhost:<port number> <your username>@<remote server address>
       ```
-      In your case, the command is like 
+      _Here is an example_
       ```
-      ssh 
+      ssh -L 8999:localhost:8999 pdutta@harrier1.cewit1.stonybr00k.edu
+      ```
+      In this case the port number is 8999. You can use 8999 or your own port number(like 8080). 
+
    *  
