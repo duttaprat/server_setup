@@ -3,7 +3,11 @@ How to setup server using terminal
 
 
 ## How to setup `Jupyter Lab` in remote sever
-   Before setting up `Jupyter Lab` in your remote server make sure your remote server hase `tunneling` facility and `anaconda` should be install in your remote server[Here is the Github repository for installing `Anaconda` in your remote server using terminal]. Then the following steps
+   Before setting up `Jupyter Lab` in your remote server make sure your remote server has following prerequisites
+   * `tunneling` facility to your server 
+   * `Anaconda` should be install in your remote server. You can fiollow this [`Github repository`](https://github.com/duttaprat/AnacondaInstallation) for installing `Anaconda` in your remote server using terminal. 
+   
+   If you have the above requirements, following steps
    * Open terminal in your local system, paste the following command
       ```
       ssh -L <port number>:localhost:<port number>  <your username>@<remote server address>
