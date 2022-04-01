@@ -29,3 +29,6 @@ How to setup server using terminal
    ```
    * For the first time, to clone your repo in your system, you need to create `personal access token`. To generate the personal token please visit the [link](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
    
+## How to run `R` code using `Jupyter Lab`
+   * ```conda config --add channels r```
+   * 
