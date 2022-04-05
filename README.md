@@ -38,4 +38,6 @@ How to setup server using terminal
    * ```conda install -c r r-essentials```
    * ```conda install -c conda-forge r-dplyr```
    * ```conda install -c conda-forge jupyterlab```
+   
+   ### How to install `bowtie2` in 
 
