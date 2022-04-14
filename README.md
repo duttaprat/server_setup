@@ -23,11 +23,18 @@ How to setup server using terminal
       jupyter lab --ip 0.0.0.0 --port 8999 --no-browser --allow-root
       ```
    *  Then, open browser in your laptop and write `localhost:8999`. The jupyter lab is now on. 
-   *  https://stackoverflow.com/questions/38198165/when-to-use-git-add-and-when-git-add-a?noredirect=1&lq=1
+
 
 
 
 ## How to setup `git` in your remote server when you don't have `sudo` access.
+   * Install `git` using conda
+   ```
+      conda install -c anaconda git
+   ```
+   * For the first time, to clone your repo in your system, you need to create `personal access token`. To generate the personal token please visit the [link](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
+ 
+ ## How to setup `git` in your remote server when you don't have `sudo` access.
    * Install `git` using conda
    ```
       conda install -c anaconda git
