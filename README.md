@@ -23,6 +23,7 @@ How to setup server using terminal
       jupyter lab --ip 0.0.0.0 --port 8999 --no-browser --allow-root
       ```
    *  Then, open browser in your laptop and write `localhost:8999`. The jupyter lab is now on. 
+   *  https://stackoverflow.com/questions/38198165/when-to-use-git-add-and-when-git-add-a?noredirect=1&lq=1
 
 
 
