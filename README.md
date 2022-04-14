@@ -34,7 +34,7 @@ How to setup server using terminal
    * For the first time, to clone your repo in your system, you need to create `personal access token`. To generate the personal token please visit the [link](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
 
    ### Useful links for Git
-      * https://stackoverflow.com/questions/38198165/when-to-use-git-add-and-when-git-add-a?noredirect=1&lq=1
+    *  https://stackoverflow.com/questions/38198165/when-to-use-git-add-and-when-git-add-a?noredirect=1&lq=1
       * https://stackoverflow.com/questions/7860751/git-fatal-unable-to-create-path-my-project-git-index-lock-file-exists
       * https://stackoverflow.com/questions/19573031/cant-push-to-github-because-of-large-file-which-i-already-deleted
       * https://medium.com/analytics-vidhya/tutorial-removing-large-files-from-git-78dbf4cf83a
