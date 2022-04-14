@@ -1,5 +1,5 @@
 # server_setup
-How to setup server using terminal
+A quick guidance for setting up server using terminal
 
 
 ## How to setup `Jupyter Lab` in remote sever
