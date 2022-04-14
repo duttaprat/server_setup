@@ -31,6 +31,10 @@ How to setup server using terminal
       conda install -c anaconda git
    ```
    * For the first time, to clone your repo in your system, you need to create `personal access token`. To generate the personal token please visit the [link](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
+      * git status
+   * git add .
+   * git commit -m "your message"
+   * git push 
  
  ## Useful links for Git.
    * https://stackoverflow.com/questions/38198165/when-to-use-git-add-and-when-git-add-a?noredirect=1&lq=1
