@@ -53,6 +53,7 @@ A quick guidance for setting up server using terminal
    
    * ```conda create -n r_env r-base bioconductor-biocinstaller``` 
    * ```conda install -c r r-essentials```
+   * ```conda install -c conda-forge r r-essentials```
    * ```conda install -c conda-forge r-dplyr```
    * ```conda install -c conda-forge jupyterlab```
    
