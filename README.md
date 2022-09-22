@@ -57,5 +57,10 @@ A quick guidance for setting up server using terminal
    * ```conda install -c conda-forge r-dplyr```
    * ```conda install -c conda-forge jupyterlab```
    
-## How to install `bowtie2` in 
+## How to install `bokeh` using conda
+  conda install -c conda-forge ipympl
+  conda install nodejs
+  jupyter labextension install @jupyter-widgets/jupyterlab-manager
+  jupyter lab build
+  conda install bokeh
 
