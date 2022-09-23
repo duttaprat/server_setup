@@ -34,7 +34,7 @@ A quick guidance for setting up server using terminal
    
    * After modification of any project/folder, use following commands 
       * git status
-      * git add .
+      * git add . OR git add --all 
       * git commit -m "your message"
       * git push 
       
