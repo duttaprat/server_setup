@@ -67,8 +67,8 @@ A quick guidance for setting up server using terminal.
   * Download and install the latest version of [WinFsp](https://github.com/winfsp/winfsp/releases/download/v2.0/winfsp-2.0.23075.msi).
   * Download and install the latest version of [SSHFS-Win](https://github.com/winfsp/sshfs-win/releases/download/v3.5.20357/sshfs-win-3.5.20357-x64.msi)(64 bit).
   * Right click on **My PC** and click on **Map Network Drive** and enter the desired drive letter and SSHFS path using the following UNC syntaxx
-  * ``` 
-  * \\sshfs\REMUSER@HOST[\PATH]
-  * ```
+  ``` 
+  \\sshfs\REMUSER@HOST[\PATH]
+  ```
   * https://github.com/winfsp/sshfs-win
 
