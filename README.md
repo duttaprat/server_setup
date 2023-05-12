@@ -1,5 +1,5 @@
-# server_setup
-A quick guidance for setting up server using terminal
+# Server_setup
+A quick guidance for setting up server using terminal.
 
 
 ## How to setup `Jupyter Lab` in remote sever
@@ -57,9 +57,14 @@ A quick guidance for setting up server using terminal
    * ```conda install -c conda-forge jupyterlab```
    
 ## How to install `bokeh` using conda
-  conda install -c conda-forge ipympl
-  conda install nodejs
-  jupyter labextension install @jupyter-widgets/jupyterlab-manager
-  jupyter lab build
-  conda install bokeh
+  * conda install -c conda-forge ipympl
+  * conda install nodejs
+  * jupyter labextension install @jupyter-widgets/jupyterlab-manager
+  * jupyter lab build
+  * conda install bokeh
+  
+## How to see the server in your windows laptop
+  * Download and install the latest version of [WinFsp](https://github.com/winfsp/winfsp/releases/download/v2.0/winfsp-2.0.23075.msi).
+  * Download and install the latest version of [SSHFS-Win](https://github.com/winfsp/sshfs-win/releases/download/v3.5.20357/sshfs-win-3.5.20357-x64.msi)(64 bit).
+  * https://github.com/winfsp/sshfs-win
 
